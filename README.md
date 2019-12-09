@@ -1,3 +1,10 @@
+Ofla:
+- Create a todos list where:
+    - You can add a to do
+    - You can mark a to do as done
+    - you can delete a to do (strech goal)
+ - Add a filter (tabs) on the page where I can see only the open or close todos
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
